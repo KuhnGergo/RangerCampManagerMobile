@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88954276582",
+    "project_id": "ranger-camp-manager",
+    "storage_bucket": "ranger-camp-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88954276582:android:d4c874cd662fbb59480927",
+        "android_client_info": {
+          "package_name": "com.remek.ranger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfWsWRic21BN0gaYbL-OPKPMij4Sr5FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
